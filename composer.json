@@ -1,0 +1,20 @@
+{
+  "name": "v.giliazetdinov/excel",
+  "autoload": {
+    "files": [
+      "src/App.php"
+    ]
+  },
+  "bin": [
+    "bin/run"
+  ],
+  "authors": [
+    {
+      "name": "v.giliazetdinov",
+      "email": "v.giliazetdinov@vk.team"
+    }
+  ],
+  "require": {
+    "phpoffice/phpspreadsheet": "^1.29"
+  }
+}
